@@ -6,7 +6,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ☻☹☺❤❣🌊☀🌧☁☂🍖🔥🎣🔔☠⚗⚓⚔⚠❄⚡⚥🔱🗡🛡🪓⛏🪣🧪⛨⏻⏼⌘⌚⌛⏳☽☮☯⛄⛈⌂⌀☃★☆⚐⚑�✎☄✔✘👾ℹ✉✂☞☜
 ```
-
+![Emojies and Icons](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols1.png)
 ---
 
 ### Interface & Utility
@@ -14,6 +14,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ☐☑☒◎●○◆◇◀◁▼▽▶▷▲△❌∙⭘⏺⏹⏴⏵⏶⏷
 ```
+![Interface & Utility](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols2.png)
 
 ---
 
@@ -22,6 +23,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ←↑→↓↔
 ```
+![Arrows & Directions](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols3.png)
 
 ---
 
@@ -30,6 +32,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬ ⚊⚋⚌⚍⚎⚏🭶🭸🭹🭺🭻⊢⊤⊥⊨
 ```
+![Border potential](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols4.png)
 
 ---
 
@@ -38,6 +41,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ♠♡♢♣♤♥♦♧ ♪♩♫♬♭♮♯ ⚀⚁⚂⚃⚄⚅
 ```
+![Suits, Music & Dice](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols5.png)
 
 ---
 ### Enclosed Letters & Numbers
@@ -47,6 +51,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ⓪
 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳
 ```
+![Enclosed Letters & Numbers](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols6.png)
 
 ---
 ### Currencies
@@ -54,6 +59,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿
 ```
+![Currencies](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols7.png)
 
 ---
 
@@ -62,6 +68,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ⏸⏽⏩⏪⏭⏮⏯⏏
 ```
+![Media control stuff](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols8.png)
 
 ---
 
@@ -70,6 +77,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 █░▒▓
 ```
+![Progress Bar potential](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols9.png)
 
 ---
 ### Random math symbols
@@ -77,6 +85,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ∝∞⊻⊼⊽⊂⊃⊄⊅⊆⊇≤≥≠≡≢∫∮∧∨∩∥√∋∌∈∉∅☈
 ```
+![Random math symbols](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols10.png)
 
 ---
 
@@ -85,3 +94,4 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ```
 ™ ⛀⛁⛂⛃ ✚✛✜
 ```
+![Misc Icons](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols11.png)
