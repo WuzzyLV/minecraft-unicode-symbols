@@ -12,7 +12,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ### Interface & Utility
 
 ```
-☐☑☒◎●○◆◇◀◁▼▽▶▷▲△❌∙⭘⏺⏹⏴⏵⏶⏷
+☐☑☒◎●○◆◇◀◁▼▽▶▷▲△❌∙⭘⏺⏹⏴⏵⏶⏷ ■□▲△▶▷▼▽◀◁◆◇○◎●
 ```
 ![Interface & Utility](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols2.png)
 
