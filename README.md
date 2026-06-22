@@ -30,7 +30,7 @@ A list of characters below, if you wish to add any feel free to PR! :)
 ### Border potential
 
 ```
-═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬ ⚊⚋⚌⚍⚎⚏🭶🭸🭹🭺🭻⊢⊤⊥⊨
+═║╒╓╔╕╖╗╘╙╚╛╜╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬ ⚊⚋⚌⚍⚎⚏🭶🭸🭹🭺🭻⊢⊤⊥⊨  ┃│┇
 ```
 ![Border potential](https://raw.githubusercontent.com/WuzzyLV/minecraft-nicode-symbols/refs/heads/master/assets/Symbols4.png)
 
